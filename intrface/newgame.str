@@ -1,0 +1,9 @@
+difficulty: "Poziom trudnoœci"
+start_training: "Trening"
+skip_training: "Shadows In Our Blood"
+options: "Ustawienia"
+cancel: "Powrót" 
+
+diff_0:  "Normalny"
+diff_1:  "Trudny"
+diff_2:  "Expert"

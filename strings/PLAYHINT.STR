@@ -1,0 +1,66 @@
+// Player Hints strings
+// Any onscreen hinty stuff would go here.
+NewGoal: "Nowe Cele"
+DoneGoal: "Cele Osi¹gniête"
+FoundSecret: "Znalaz³eœ sekret!"
+UseDoorOpen: "U¯YJ by otworzyæ drzwi.\n"
+UseDoorClose: "U¯YJ by zamkn¹æ drzwi.\n"
+UseKeyTake: "U¯yj by podnieœæ klucz.\n"
+UseLootTake: "U¯YJ by podnieœæ kosztownoœci.\n"
+UsePortable: "Podnosisz przenoœne przedmioty na klawiszu U¯YJ.\n"
+SelectWaterArrow: "Przygotuj Strza³ê wodn¹ by zgasiæ pochodniê.\n"
+PullArrow: "Naciœnij i przytrzymaj ATAK by naci¹gn¹æ ³uk.\n"
+ReleaseArrow: "Wybierz cel i puœæ ATAK by strzeliæ.\n"
+SelectBlackjack: "Nim zaczniesz przygotuj Pa³kê.\n"
+PullBackArm: "Naciœnij i przytrzymaj ATAK by unieœæ ramiê.\n"
+ReleaseArm: "Zbli¿ siê powoli do celu i wyceluj w jego g³owê.\n\
+Nie mo¿esz og³uszyæ wojownika, który Ciê ujrza³!!\n\
+Puœæ ATAK by og³uszyæ.\n"
+ReleaseArmClose: "Puœæ ATAK by og³uszyæ\n"
+SelectKey: "Wybierz NASTÊPNA RZECZ lub POPRZEDNIA RZECZ dopóki nie wybierzesz klucza.\n"
+SelectNonTool: "Niektóre rzeczy w inwentarzu s¹ \"narzêdziami\" i mog¹ byæ U¯YTE \
+na obiektach w œwiecie.\n\
+U¯YJ by spróbowaæ u¿yæ rzecz na obiekcie, lub\n\
+wybierz NASTÊPNA RZECZ lub POPRZEDNIA RZECZ.\n\
+Wybierz inn¹ rzecz, jeœli chcesz jej U¯YÆ na obiekcie w œwiecie.\n"
+UseKeyUnlock: "Najpierw ustaw siê na wprost drzwi.\n\
+Nastêpnie U¯YJ klucz by otworzyæ drzwi.\n"
+UseKeyLock: "Najpierw ustaw siê na wprost drzwi.\n\
+Nastêpnie U¯YJ klucz by zamkn¹æ drzwi.\n"
+GoFindKey: "ZnajdŸ klucz do otworzenia drzwi."
+UsePotionHeal: "U¯YJ Mikstury Zdrowia by siê uleczyæ.\n"
+DropOrUseFlashbomb: "\
+Bomba B³yskowa oœlepia ka¿dego, kto widzi jej detonacjê - \n\
+przyjació³ lub wrogów (tak¿e Ciebie)\n\
+U¯yJ Bomby B³yskowej by rzuciæ, lub UPUœæ Bombê B³yskow¹.\n"
+DropFlashbomb: "\
+Bomba B³yskowa oœlepia ka¿dego, kto widzi jej detonacjê - \n\
+przyjació³ lub wrogów (tak¿e Ciebie)\n\
+UPUŒÆ Bombê B³yskow¹ by wybuch³a.\n"
+UseFlareLight: "U¯YJ Flarê by oœwietliæ otoczenie.\n"
+DropFlare: "Klawisz UPUŒÆ upuszcza Flarê.\n"
+DropOrUseFlare: "Klawisz UPUŒÆ upuszcza Flarê, \n\
+klawisz U¯YJ rzuca ni¹.\n"
+UsePickpocket: "Naciœnij U¯YJ by okraœæ nieœwiadom¹ ofiarê.\n"
+NoKeyDoor: "Nie mo¿esz U¯YÆ zamkniêtych drzwi. Mo¿e ktoœ je odblokuje.\n"
+CheckMap: "MAPA pokazuje Ci obszar misji wraz z podœwietleniem Twojej obecnej lokalizacji .\n"
+VisGem: "\
+Jasnoœæ Kryszta³u Widzialnoœci (na dole ekranu) pokazuje \
+jak dobrze jesteœ ukryty.  Œwiat³o, ruch, broñ i postawa \
+wp³ywaj¹ na Twoj¹ widzialnoœæ.\n"                                                                                                                             na Twoj¹ widzialnoœæ."
+LockpickDoor: "Naciœnij i przytrzymaj klawisz U¯YJ by rozpocz¹æ otwieranie drzwi .\
+  Trzymaj klawisz U¯YJ dopóki drzwi siê nie otworz¹.  Jeœli us³yszysz tylko \
+krótkie klikniêcie, wypróbuj inny wytrych. \n"
+LockpickChest: "Naciœnij i przytrzymaj klawisz U¯YJ by rozpocz¹æ otwieranie kufra .\
+  Trzymaj klawisz U¯YJ dopóki kufer siê nie otworzy.  Jeœli us³yszysz tylko \
+krótkie klikniêcie, wypróbuj inny wytrych. \n"
+LockpickDoor2: "Naciœnij i przytrzymaj klawisz U¯YJ by rozpocz¹æ otwieranie drzwi .\
+  Trzymaj klawisz U¯YJ dopóki zamek nie przestanie chrobotaæ.  Zmieñ \
+wytrych na inny i kontynuuj dopóki drzwi siê nie otworz¹.\n."
+SelectPickDoor: "Wybierz NASTÊPNA RZECZ lub POPRZEDNIA RZECZ dopóki nie wybierzesz wytrychu.\n\
+Wtedy zbli¿ siê do drzwi.\n"
+SelectPickChest: "Wybierz NASTÊPNA RZECZ lub POPRZEDNIA RZECZ dopóki nie wybierzesz wytrychu.\n\
+Wtedy zbli¿ siê do kufra.\n"
+JumpMantle: "By wspi¹æ siê po drabinie, stañ na wprost niej,\n\
+podejdŸ blisko, naciœnij i przytrzymaj klawisz SKOK.\n"
+

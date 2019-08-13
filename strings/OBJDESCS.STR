@@ -1,0 +1,91 @@
+use_blackjack: "Ta broñ og³usza cel nie robi¹c ha³asu ani nie zostawiaj¹c\."
+œladów krwi"
+
+use_breath: "Ta mikstura zaopatruje ciê w tlen podczas pobytu pod wod¹. Koszt: 125"        
+
+use_broadhead: "To jest strza³a. Koszt: 25"
+
+use_fire: "Ta strza³a eksploduje przy zderzeniu, niszcz¹c cel oraz zapalaj¹c \
+zgaszone pochodnie. Strza³a ta nie podlega prawom balistyki. Leci prosto. Koszt: 300"
+
+use_flash: "Ta bomba eksploduj¹c oœlepia wszystkich nañ patrz¹cych. Koszt: 200" 
+
+use_gasarrow: "Ta strza³a eksploduje przy zderzeniu tworz¹c chmurê gazu obezw³adniaj¹cego\
+usypiaj¹c wszystkich przeciwników w zasiêgu. Nie podlega prawom balistyki. Leci prosto. Koszt: 500"
+
+use_gasmine: "Ta mina gazowa wytwarza chmurê gazu obezw³adniaj¹cego usypiaj¹c wszystkich\
+w pobli¿u. Po uzbrojeniu mo¿na rozbroiæ wytrychami. Koszt 500:"
+
+use_healing: "Ta mikstura stopniowo odtwarza utracone punkty ¿ycia. Koszt: 250"
+
+use_holywater: ""
+
+use_slowfall: "Ta mikstura zmniejsza dzia³anie grawitacji podczas skoku. Spowalnia tak¿e ruch. Koszt: 150"
+
+use_invisibility: "Ta mikstura czyni ciê niewidzialnym. Uwaga! Dzia³a tylko przez ok. 10 sekund\
+U¿ywaæ w ostatecznoœci. Koszt: 600"
+
+use_lockpick: "Pomog¹ Ci otworzyæ zamek. Pamiêtaj, ¿e cierpliwoœæ jest cnot¹."
+
+use_pricey_lockpick: "Pomog¹ Ci otworzyæ zamek. Pamiêtaj, ¿e cierpliwoœæ jest cnot¹.  Koszt: 4000 za parê."
+
+use_mine: "Ta mina wybucha w pobli¿u ludzi, którzy w nieuwadze \
+na ni¹ nast¹pili. Raz uzbrojona daje siê rozbroiæ przy \
+pomocy wytrychów. Koszt: 350"
+
+use_moss: "Ta strza³a przy uderzeniu w ziemiê wytwarza dywan z mchu, co pozwala\
+na bezszelestne przemieszczanie siê.\
+ Koszt: 125"
+
+use_noisemaker: "Ha³asuj¹ca strza³a tworz¹ca pewien charakterystyczny rodzaj dzwiêku\
+Przydatne przy odwracaniu uwagi stra¿ników. Koszt: 250"
+
+use_rope: "Po wbiciu w drewno wypuszcza linê. Koszt :200"
+
+use_vine: "Produkt Victorii. Przyczepiaj¹c siê do drewna lub metalu\
+wytwarza linê. Koszt: 200."
+
+use_sword: "Przydaje siê g³ównie do æwiartowania przeciwników na plasterki. \
+Mo¿na siê te¿ nim broniæ blokuj¹c ciosy."
+
+use_water: "Strza³a z wod¹ nie zadaje obra¿eñ, ale gasi pochodnie oraz zmywa \
+œlady krwi. Koszt :50"
+
+use_tip: "Drobna podpowiedŸ. Koszt: 25"
+
+use_tip50: "To ma³a cena za cenne wskazówki. Koszt: 50"
+
+use_tip100: "Ktoœ chce Ci pomóc za darmo... prawie . Koszt: 100"
+
+use_hammertip: "Jeden z M³otowców przekazuje Ci znalezione informacje, ale musisz co nieco za to zap³aciæ \
+Chyba jego dusza nie zostanie potêpiona za pomoc z³odziejowi... Koszt:100"
+use_speed: "Ta mikstura przez chwilê pozwala Ci przemieszczaæ siê ze znaczn¹ szybkoœci¹. Koszt: 300."
+
+use_equiptip: "Lokalni bogacze prawdopodobnie posiadaj¹ jakies ciekawe przedmioty, \
+Niestety nie dowiedz¹ siê w jaki sposób im je podwêdzi³eœ. Koszt: 200"
+
+use_diamondtip: "Miasto to wymarzone miejsce na z³odziejski trening - jeœli wiesz gdzie zagl¹daæ. Koszt: 100"
+
+use_scripture: "Jest to pierwsze wprowadzenie do Nowego Pisma \
+Mistrza Budowniczego, napisane przez Karrasa i dostarczone ci przez Victoriê."
+
+use_flare: "Flara przez chwilê oœwietli ci drogê w ciemnoœci. Koszt: 25"
+
+use_camera: "£¹czy sie z okiem Garreta u¿ywajac eterycznych wibracji. \
+Rzucona pozwala zobaczyæ obszar wko³o niej. U¯YJ by zrezygnowaæ z widoku. Koszt: 300"
+
+use_birdcall: "U¯YWAJ¥C piszcza³ki dasz Basso sygna³ do przyst¹pienia do akcji."
+
+use_frogegg: "Przemycone do miasta przez agentów Victorii \
+po rzuceniu wytwarza bestiê atakuj¹c¹ najbli¿szego przeciwnika. Koszt: 200"
+
+use_m12keys: "Zabra³eœ parê kluczy od posesji gdy w niej by³eœ. Na pewno siê przydadz¹."
+
+use_m12letter: "List od Karrasa do Gervaisiusa. Warto przeczytaæ."
+
+use_FlashMine: "Mina wyposa¿ona w sensor cieplny eksploduje oœlepiaj¹cym œwiat³em \
+podobnie jak Bomba b³yskowa. Mo¿na j¹ rozbroiæ wytrychami. Koszt 350:"
+
+use_SDBoxKey: "Kopia klucza do skrzynki depozytowej Mechanistów."
+
+
